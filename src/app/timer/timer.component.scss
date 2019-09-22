@@ -1,0 +1,25 @@
+
+.center {
+    display:flex;
+    justify-content: center;
+}
+.container{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.flex {
+    display: flex;
+}
+.flex-row {
+	flex-direction: row;
+	flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-around;
+}
+.flex-column {
+	flex-direction: column;
+	flex-wrap: wrap;
+}
