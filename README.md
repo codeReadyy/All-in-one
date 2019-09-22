@@ -1,27 +1,19 @@
 # AllInOne
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
+## Purpose
+Angular application using version 8.3.5. It will contain only short applications as a component. Soon I will add side nav which will contain list of short application name with the ability of search and select. You are most welcome to add yours.
 
-## Development server
+## Installation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm install` and then `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module` for each of your application.
 
-## Build
+## Future enhancement
+- Test cases should be added for each function/feature/component
+- Introduce Flex styling as common style
+- ...
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
