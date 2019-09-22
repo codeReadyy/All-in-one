@@ -3,6 +3,10 @@
 ## Purpose
 Angular application using version 8.3.5. It will contain only short applications as a component. Soon I will add side nav which will contain list of short application name with the ability of search and select. You are most welcome to add yours.
 
+## Added Application
+- **Timer** (default)
+- ..
+
 ## Installation
 
 Run `npm install` and then `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
